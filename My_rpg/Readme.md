@@ -1,0 +1,1 @@
+The goal of this project is to produce an RPG game with the SFML/CSFML libC with some details who are in the PDF of th subject.
